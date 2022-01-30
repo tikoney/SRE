@@ -1,0 +1,7 @@
+Thank you for contacting Amazon Web Services.
+We have opened case 9553051601 to address your issue.
+The details of your case are as follows:
+Case ID: 9553051601
+Subject: Unable to start instances
+Severity: critical 
+
